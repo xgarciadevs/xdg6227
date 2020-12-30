@@ -5,9 +5,17 @@ My name is Xavier G but I am reconized from xdg6227 or ONYX6227. I am a 13 y/o a
 ### 🔭 Current Projects
 I’m currently working on ...
 
-- [Striker Discord Bot](https://top.gg/bot/682046004077527051)
-- [Randoizer NPM Package](https://npmjs.com/packages/randoizer)
-- [discord-player-simple NPM Package](https://npmjs.com/packages/discord-player-simple)
+- [Striker Discord Bot](https://striker-bot.tk/)
+- [Chillex Botlist](https://bots.chillex.ga/)
+- [An API for Discord Bots](https://github.com/xdg6227/)
+
+### 🔭 Finished Projects
+These are my finished projects ...
+
+- [Twitch Chat Bot Example](https://github.com/xdg6227/twitch-chat-bot/)
+- [Google Chrome Extention Example](https://github.com/xdg6227/chrome-extention-example/)
+- [REST API with Node.js Example](https://github.com/xdg6227/rest-api-nodejs-example/)
+- [Basic EJS Webpage](https://github.com/xdg6227/basic-ejs-webpage/)
 
 And much more that I will release soon.
 
