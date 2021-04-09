@@ -5,9 +5,7 @@ My name is Xavier G but I am reconized from xdg6227 or ONYX6227. I am 13 year's 
 ### 🔭 Current Projects
 I’m currently working on ...
 
-- [Striker Discord Bot](https://github.com/xdg6227/striker-bot/)
-
-And a few others but I am keeping those private.
+Nothing
 
 ### 🔭 Finished Projects
 These are my finished projects ...
