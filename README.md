@@ -41,3 +41,4 @@ My name is Xavier Garcia and I like to randomly make video games and websites. I
 [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
 
 ## 📫 Contact Me
+The main way to contact me for any help is to add my Discord: **ONYX6227#0001** or to send me an email: **[xdg6227@gmail.com](mailto:xdg6227@gmail.com)**.
