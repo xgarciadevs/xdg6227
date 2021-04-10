@@ -1,7 +1,8 @@
 # 👋 Hello!
+Idk why you decided to look at my profile but anyways.. welcome!
 
 ## ☠️ About Me
-
+My name is Xavier Garcia and I like to randomly make video games and websites. I stream on [Twitch](https://twitch.tv/night_crown_) and I am in a [Podcast](https://anchor.fm/haven-podcast) with some of my friends :D
 
 ## ☣️ Projects
 - [Discord Bot](https://github.com/xdg6227/discord-bot)
@@ -15,6 +16,12 @@
 
 ## 📱 Social Media
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-onyx6227-ff69b4" />](https://instagram.com/onyx6227/)
+
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-onyx6227-%2300acee" />](https://twitter.com/onyx6227/)
+
+[<img alt="Reddit" src="https://img.shields.io/badge/Reddit-onyx6227-%09%23FF5700" />](https://reddit.com/u/onyx6227/)
+
+[<img alt="Discord" src="https://img.shields.io/badge/Discord-ONYX6227%230001-%237289da" />](https://discord.com/)
 
 ## ⭐ GitHub Stats
 [<img alt="Followers" src="https://img.shields.io/github/followers/xdg6227?style=social" />](https://github.com/xdg6227/)
