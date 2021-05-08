@@ -2,7 +2,7 @@
 Idk why you decided to look at my profile but anyways.. welcome!
 
 ## ☠️ About Me
-My name is Xavier Garcia and I like to randomly make video games and websites. I stream on [Twitch](https://twitch.tv/night_crown_) and I am in a [Podcast](https://anchor.fm/haven-podcast) with some of my friends :D
+My name is Xavier Garcia and I like to help out creators and developers, I also stream on [Twitch](https://twitch.tv/night_crown_) dail.y
 
 ## ☣️ Projects
 - [Discord Bot](https://github.com/xdg6227/discord-bot)
