@@ -29,7 +29,7 @@ Idk why you decided to look at my profile but anyways.. welcome!</p>
 My name is Xavier Garcia and I like to help out creators and developers, I also stream on Twitch daily.
 
 ## 😂 Wanna hear a joke?
-<img src="https://readme-jokes.vercel.app/api?bgColor=%2323272a&borderColor=%232c2f33&qColor=%23fff&aColor=%237289da">   
+<img src="https://readme-jokes.vercel.app/api?bgColor=%2323272a&borderColor=%232c2f33&qColor=%23fff&aColor=%237289da&textColor=%23fff&codeColor=%2399aab5">   
 
 ## ☣️ Projects
 [Discord Bot](https://github.com/xdg6227/discord-bot)
