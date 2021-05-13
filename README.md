@@ -1,18 +1,49 @@
-# 👋 Hello!
-Idk why you decided to look at my profile but anyways.. welcome!
+<div align="center">
+   <img src="https://cdn.discordapp.com/attachments/833458360350670848/842212396231950366/circle-cropped.png" alt="xdg6227" width="200" style="border-radius:50%;" >
+   &nbsp;&nbsp;
+   <img src="https://cdn.discordapp.com/attachments/833458360350670848/842212819918389288/circle-cropped_1.png" alt="xdg6227" width="200" style="border-radius:50%;" >
+   <h3>Xavier Garcia - xdg6227</h3>
+   <p>
+      <a href="https://google.com" target="_blank" style='margin-right:10px'>
+      <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/discord-xxl.png" alt="Discord" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/xdg6227" target="_blank" style='margin-right:10px'>
+      <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/github-9-xxl.png" alt="GitHub" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/jarvis394" target="_blank" style='margin-right:10px'>
+      <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/twitch-tv-xxl.png" alt="Twitch" />
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://t.me/tarnatovski" target="_blank" style='margin-right:10px;'>
+      <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/mail-xxl.png" alt="Email" />
+      </a>
+   </p>
+</div>
 
+# 👋 Hello!
+Idk why you decided to look at my profile but anyways.. welcome!</p>
+  
 ## ☠️ About Me
-My name is Xavier Garcia and I like to help out creators and developers, I also stream on [Twitch](https://twitch.tv/night_crown_) dail.y
+My name is Xavier Garcia and I like to help out creators and developers, I also stream on Twitch daily.
 
 ## ☣️ Projects
-- [Discord Bot](https://github.com/xdg6227/discord-bot)
-- [Phantasm Website](https://github.com/xdg6227/phantasm-website)
-- [Chrome Extention Example](https://github.com/xdg6227/chrome-extention-example)
-- [EJS Website Example](https://github.com/xdg6227/ejs-website-example)
-- [Electron App Example](https://github.com/xdg6227/electron-app-example)
-- [NodeJs RestAPI Example](https://github.com/xdg6227/nodejs-restapi-example)
-- [Socket Chat Example](https://github.com/xdg6227/socket-chat-example)
-- [Twitch ChatBot Example](https://github.com/xdg6227/twitch-chatbot-example)
+[Discord Bot](https://github.com/xdg6227/discord-bot)
+
+[Phantasm Website](https://github.com/xdg6227/phantasm-website)
+
+[Chrome Extention Example](https://github.com/xdg6227/chrome-extention-example)
+
+[EJS Website Example](https://github.com/xdg6227/ejs-website-example)
+
+[Electron App Example](https://github.com/xdg6227/electron-app-example)
+
+[NodeJs RestAPI Example](https://github.com/xdg6227/nodejs-restapi-example)
+
+[Socket Chat Example](https://github.com/xdg6227/socket-chat-example)
+
+[Twitch ChatBot Example](https://github.com/xdg6227/twitch-chatbot-example)
 
 ## 📱 Social Media
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-onyx6227-ff69b4" />](https://instagram.com/onyx6227/)
@@ -23,10 +54,16 @@ My name is Xavier Garcia and I like to help out creators and developers, I also 
 
 [<img alt="Discord" src="https://img.shields.io/badge/Discord-ONYX6227%230001-%237289da" />](https://discord.com/)
 
-## ⭐ GitHub Stats
-[<img alt="Followers" src="https://img.shields.io/github/followers/xdg6227?style=social" />](https://github.com/xdg6227/)
+[<img alt="Twitch" src="https://img.shields.io/badge/Twitch-Night__Crown__-%236441a5" />](https://twitch.tv/night_crown_)
 
-[<img alt="Stars" src="https://img.shields.io/github/stars/xdg6227?style=social" />](https://github.com/xdg6227/)
+## ⭐ GitHub Stats
+<div align="center">
+   <img width="" style="background:#4680C2;" src="https://github-readme-stats.vercel.app/api?username=jarvis394&hide_border=true&hide_title=true" alt="Statistics" />
+  <p>
+    <img align="center" src="https://img.shields.io/github/followers/xdg6227?style=social" alt="Followers" />
+    <img align="center" src="https://img.shields.io/github/stars/xdg6227?style=social" alt="Stars" />
+  </p>
+ </div>
 
 ## 💻 My Coding Languages
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white" />](https://www.typescriptlang.org)
