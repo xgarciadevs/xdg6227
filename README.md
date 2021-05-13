@@ -4,7 +4,7 @@
    <img src="https://cdn.discordapp.com/attachments/833458360350670848/842212819918389288/circle-cropped_1.png" alt="xdg6227" width="200" style="border-radius:50%;" >
    <h3>Xavier Garcia - xdg6227</h3>
    <p>
-      <a href="https://google.com" target="_blank" style='margin-right:10px'>
+      <a href="https://discord.gg/BPpB4EKngN" target="_blank" style='margin-right:10px'>
       <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/discord-xxl.png" alt="Discord" />
       </a>
       &nbsp;&nbsp;
@@ -12,11 +12,11 @@
       <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/github-9-xxl.png" alt="GitHub" />
       </a>
       &nbsp;&nbsp;
-      <a href="https://github.com/jarvis394" target="_blank" style='margin-right:10px'>
+      <a href="https://twitch.tv/night_crown_" target="_blank" style='margin-right:10px'>
       <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/twitch-tv-xxl.png" alt="Twitch" />
       </a>
       &nbsp;&nbsp;
-      <a href="https://t.me/tarnatovski" target="_blank" style='margin-right:10px;'>
+      <a href="mailto:xdg6227@gmail.com" target="_blank" style='margin-right:10px;'>
       <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/mail-xxl.png" alt="Email" />
       </a>
    </p>
