@@ -94,5 +94,5 @@
 
 ## G Discord
 <div align="center">
-   <img src="https://discord.com/api/guilds/758015539472891935/widget.png?style=banner2" alt="Discord Banner"/>
+   <img src="https://discordapp.com/api/guilds/758015539472891935/widget.png?style=banner2" alt="Discord Banner"/>
 </div>
