@@ -92,7 +92,7 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## G Discord
+## 🔥 Discord
 <div align="center">
    <img src="https://discordapp.com/api/guilds/758015539472891935/widget.png?style=banner2" alt="Discord Banner"/>
 </div>
