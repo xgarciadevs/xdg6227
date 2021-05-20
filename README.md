@@ -1,7 +1,7 @@
 <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/833458360350670848/842212396231950366/circle-cropped.png" alt="xdg6227" width="200" style="border-radius:50%;" >
+   <img src="https://cdn.discordapp.com/attachments/833458360350670848/844949444125392906/circle-cropped.png" alt="xdg6227" width="200" style="border-radius:50%;" >
    &nbsp;&nbsp;
-   <img src="https://cdn.discordapp.com/attachments/833458360350670848/842212819918389288/circle-cropped_1.png" alt="xdg6227" width="200" style="border-radius:50%;" >
+   <img src="https://cdn.discordapp.com/attachments/833458360350670848/844949778202624050/circle-cropped_2.png" alt="xdg6227" width="200" style="border-radius:50%;" >
    <h3>Xavier Garcia - xdg6227</h3>
    <p>Young Developer and Content Creator</p>
    <p>
