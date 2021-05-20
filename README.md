@@ -92,7 +92,7 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </div>
 
-## 📫 Contact Me
+## G Discord
 <div align="center">
-   The main way to contact me for any help is to add my Discord, <code>ONYX6227#0001</code> or to send me an email via <a href="mailto:xdg6227@gmail.com">xdg6227@gmail.com</a>.
+   <img src="https://discord.com/api/guilds/758015539472891935/widget.png?style=banner2" alt="Discord Banner"/>
 </div>
