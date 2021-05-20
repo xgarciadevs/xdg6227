@@ -6,7 +6,7 @@
    <a href="https://github.com/xdg6227">
    <img src="https://cdn.discordapp.com/attachments/833458360350670848/844949778202624050/circle-cropped_2.png" alt="xdg6227" width="200" style="border-radius:50%;" >
    </a>
-   <h3>Xavier Garcia - xdg6227</h3>
+   <h3>Xavier Garcia • xdg6227</h3>
    <p>Young Developer and Content Creator</p>
    <p>
       <a href="https://discord.gg/BPpB4EKngN" target="_blank" style='margin-right:10px'>
