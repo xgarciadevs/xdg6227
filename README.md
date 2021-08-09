@@ -1,15 +1,11 @@
 <div align="center">
    <a href="https://github.com/xdg6227">
-   <img src="https://cdn.discordapp.com/attachments/833458360350670848/844949444125392906/circle-cropped.png" alt="xdg6227" width="200" style="border-radius:50%;" >
-   </a>
-   &nbsp;&nbsp;
-   <a href="https://github.com/xdg6227">
-   <img src="https://cdn.discordapp.com/attachments/833458360350670848/844949778202624050/circle-cropped_2.png" alt="xdg6227" width="200" style="border-radius:50%;" >
+   <img src="https://cdn.discordapp.com/attachments/859595973578588173/874343227732406302/avatar.png" alt="xdg6227" width="200" style="border-radius:50%;" >
    </a>
    <h3>Xavier Garcia • xdg6227</h3>
    <p>Young Developer and Content Creator</p>
    <p>
-      <a href="https://discord.gg/BPpB4EKngN" target="_blank" style='margin-right:10px'>
+      <a href="https://discord.gg/esCHFExfj3" target="_blank" style='margin-right:10px'>
       <img width="22" height="22" align="center" src="https://www.iconsdb.com/icons/preview/white/discord-xxl.png" alt="Discord" />
       </a>
       &nbsp;&nbsp;
@@ -34,34 +30,12 @@
 
 ## ☠️ About Me
 <div align="center">
-   My name is Xavier Garcia and I like to help out other creators and developers, I also stream on Twitch daily.
-</div>
-
-## 😂 Wanna hear a joke?
-<div align="center">
-   <a href="https://github.com/ABSphreak/readme-jokes">
-   <img src="https://readme-jokes.vercel.app/api?bgColor=%2323272a&borderColor=%232c2f33&qColor=%23fff&aColor=%237289da&textColor=%23fff&codeColor=%2399aab5">   
-   </a>
+   My name is Xavier Garcia and I like to help out other creators and developers.
 </div>
 
 ## ☣️ Projects
 <div align="center">
-   
-[Discord Bot](https://github.com/xdg6227/discord-bot)
-
-[Phantasm Website](https://github.com/xdg6227/phantasm-website)
-
-[Chrome Extention Example](https://github.com/xdg6227/chrome-extention-example)
-
-[EJS Website Example](https://github.com/xdg6227/ejs-website-example)
-
-[Electron App Example](https://github.com/xdg6227/electron-app-example)
-
-[NodeJs RestAPI Example](https://github.com/xdg6227/nodejs-restapi-example)
-
-[Socket Chat Example](https://github.com/xdg6227/socket-chat-example)
-
-[Twitch ChatBot Example](https://github.com/xdg6227/twitch-chatbot-example)
+   <p>All projects were either deleted or are private.</p>
 </div>
 
 ## 📱 Social Media
@@ -72,7 +46,7 @@
    <a href="https://twitter.com/onyx6227">
    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-onyx6227-%2300acee" />
    </a>
-   <a href="https://discord.com/">
+   <a href="https://discord.com/users/528637169544331291">
    <img alt="Discord" src="https://img.shields.io/badge/Discord-ONYX6227%230001-%237289da" />
    </a>
    <a href="https://twitch.tv/night_crown_">
@@ -133,7 +107,7 @@
 
 ## 🔥 Discord
 <div align="center">
-   <a href="https://discord.gg/BPpB4EKngN">
+   <a href="https://discord.gg/esCHFExfj3">
       <img src="https://discordapp.com/api/guilds/758015539472891935/widget.png?style=banner2" alt="Discord Banner"/>
    </a>
 </div>
