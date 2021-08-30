@@ -72,5 +72,5 @@
 
 <div>
    <h2>GitHub Stats</h2>
-   <img alt="Metrics" src="https://github.com/xdg6227/xdg6227/blob/master/github-metrics.svg" />
+   <img alt="Metrics" src="https://github.com/xdg6227/xdg6227/blob/main/github-metrics.svg" />
 </div>
