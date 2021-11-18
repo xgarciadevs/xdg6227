@@ -58,14 +58,3 @@
    <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
    </a>
 </div>
-
-<div>
-   <h2>Current Projects</h2>
-   <p>All projects were either deleted or are private.</p>
-</div>
-
-<div>
-   <h2>Contact & Support</h2>
-   <li>Discord: <a href="https://discord.com/users/528637169544331291">Night_Crown_#0001</a></li>
-   <li>Email: <a href="mailto:xdg6227@gmail.com">xdg6227@gmail.com</a></li>
-</div>
