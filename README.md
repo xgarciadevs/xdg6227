@@ -69,8 +69,3 @@
    <li>Discord: <a href="https://discord.com/users/528637169544331291">Night_Crown_#0001</a></li>
    <li>Email: <a href="mailto:xdg6227@gmail.com">xdg6227@gmail.com</a></li>
 </div>
-
-<div>
-   <h2>GitHub Stats</h2>
-   <img alt="Metrics" src="https://github.com/xdg6227/xdg6227/blob/main/github-metrics.svg" />
-</div>
